@@ -12,13 +12,13 @@ This project is solana marker maker & solana volume bot with a simple, non‑tec
 
 ## Let's Connect!,
 
-<a href="miraclerose001:stormwind215@gmail.com" target="_blank">
+<a href="mailto:ximon0107@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="https://t.me/miraclerose0303" target="_blank">
+<a href="https://t.me/oliver_xyyz" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
-<a href="https://discord.com/channels/@me/317736722593087490" target="_blank">
+<a href="https://discord.com/users/257896163712172034" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
